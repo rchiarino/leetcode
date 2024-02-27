@@ -6,5 +6,6 @@ Go back to the [main README](../README.md).
 
 ## Table of Contents
 
-- [Two Sum](./two-sum) .js
-- [Validate Parentheses](./valid-parentheses) .cpp
+- [Two Sum](./twoSum.js) .js
+- [Validate Parentheses](./valid-parentheses.cpp) .cpp
+- [Merge Two Sorted Lists](./mergeTwoSortedList.cpp) .cpp
