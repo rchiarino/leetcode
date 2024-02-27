@@ -9,3 +9,5 @@ Go back to the [main README](../README.md).
 - [Two Sum](./twoSum.js) .js
 - [Validate Parentheses](./valid-parentheses.cpp) .cpp
 - [Merge Two Sorted Lists](./mergeTwoSortedList.cpp) .cpp
+- [Best Time to Buy and Sell Stock](./bestTimeToBuyAndSell.js) .js
+- [Validate Palindrome](./validPalindrome.js) .js
