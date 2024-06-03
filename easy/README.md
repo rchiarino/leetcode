@@ -11,3 +11,4 @@ Go back to the [main README](../README.md).
 - [Merge Two Sorted Lists](./mergeTwoSortedList.cpp) .cpp
 - [Best Time to Buy and Sell Stock](./bestTimeToBuyAndSell.js) .js
 - [Validate Palindrome](./validPalindrome.js) .js
+- [Last Stone Weight](./1046-LastStoneWeight.cpp) .cpp
