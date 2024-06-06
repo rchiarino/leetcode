@@ -16,3 +16,4 @@ Go back to the [main README](../README.md).
   - [Using Memoization](./509-FibonacciNumbersMemoization.cpp) .cpp
   - [Using Tabulation](./509-FibonacciNumbersTabulation.cpp) .cpp
 - [Climbing Stairs](./70-ClimbingStairs.cpp) .cpp
+- [Minimum Cost Climbing Stairs](./746-MinCostClimbingStairs.cpp) .cpp
